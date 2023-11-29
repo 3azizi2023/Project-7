@@ -11,4 +11,4 @@ Furthermore, the development of this mobile application will contribute to the i
 
 - Mission:
 
-The mission involves taking charge of the work done by the intern and finalizing the processing pipeline. It is not required to train a model at the moment. The key is to establish the initial steps of the processing that will be useful when we need to handle larger volumes of data in the future!
+Processing pipeline. It is not required to train a model at the moment. The key is to establish the initial steps of the processing that will be useful when we need to handle larger volumes of data in the future!
